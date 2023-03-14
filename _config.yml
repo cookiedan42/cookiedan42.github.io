@@ -2,8 +2,8 @@ title: Daniel Tan
 description: Showcase
 
 
-# remote_theme: pages-themes/dinky@v0.2.0
-theme: dinky
-# plugins:
-  # - jekyll-remote-theme # add this line to the plugins list if you already have one
+remote_theme: pages-themes/dinky@v0.2.0
+# theme: dinky
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
