@@ -40,3 +40,16 @@ My first foray into scheduled builds. The dynamic wiki for a game I played was v
 
 ### [Self Care](https://github.com/cookiedan42/help_gen)
 Picking self-care tips from a long list requires energy which we might not have, randomly generating them is much less energy intensive
+
+### [Open Street Maps](https://github.com/cookiedan42/osm-toolbox)
+A python package which helps with working with geospatial data from Open data sources and OpenStreetMaps
+Contains tools to
+
+- work with .pbf files from OpenStreetMaps
+- work with geoJSON files
+- download data from Singapore Government sources
+- transform projections between WGS84 and SVY21
+- create square and hexagon grids and section geospatial data using those grids
+
+
+
