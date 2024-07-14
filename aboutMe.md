@@ -3,7 +3,10 @@
 <img src="/assets/img/myFace.jpg" alt="" width="200" />
 <br/>
 
-I am a Systems Analyst and Software Engineer at the Urban Redevelopment Authority (URA) in Singapore.
+I am a Systems Analyst and Software Engineer at the Urban Redevelopment Authority (URA) in Singapore. I have a Bachelor's degree in Computer Science from the National University of Singapore.  
+My interest areas are in graph algorithms and parallel computing.
+
+
 My primary experience is in backend development and DevOps, with some frontend development too.  
 
 Two of my recent projects are:
