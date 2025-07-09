@@ -2,7 +2,18 @@
 layout: default
 ---
 
-# Class projects
+# Recent Projects 
+
+### [Geo](https://github.com/georust/geo)  
+Implemented multiple geometrical algorithms in Rust, resultig in up to ~400x speedups over prior implementations
+
+### Performant Rust  
+Rewrite a building placement simualtion script from Python to Rust, with ~2500x speedup using parallelism and better algorithms.  
+
+### Web Assembly and Python  
+Rewrote multiple projects in Rust with web assembly and Python bindings, enabling me to use the a common codebase for both frontend, backend and jupyter notebook demonstrations.
+
+# College projects
 
 ### [CS3203 project](https://github.com/cookiedan42/CS3203_project)
 Static Program Analyser implemented in c++
@@ -21,7 +32,7 @@ I took a class in USP called Language, Cognition and Culture. Our deliverable wa
 <!-- ### [CS2103 project](https://github.com/cookiedan42/tp)
 Software engineering group project implemented in Java -->
 
-# Non-Class projects
+# College Extracurricular projects
 
 ### [Operations Research Helper](https://github.com/cookiedan42/OperationsResearch_1)
 In 2020 I took a class on Operations Research. The formulae for our calculations were very tedious and easy to get wrong. I wrote this Python automation tool to aid in verifying that my work was correct.
